@@ -17,7 +17,7 @@
 #define T 6000              //Valor máximo del tiempo (fotogramas)
 #define nciclos 150          //Esta variable va de 1 a N/4 como máximo
 #define nD 1500              //Tiempo que pasa hasta que el detector 
-#define iteraciones 10   //Número de iteraciones del programa
+#define iteraciones 1000   //Número de iteraciones del programa
 #define lambda 0.7
 #define PI 3.14159265359
 
